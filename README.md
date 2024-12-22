@@ -12,5 +12,6 @@ I am a student
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GuruCodeIn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruCodeIn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://leetcard.jacoblin.cool/guruprasad650?ext=contest)
 ---
 [![](https://visitcount.itsvg.in/api?id=GuruCodeIn&icon=0&color=0)](https://visitcount.itsvg.in)
